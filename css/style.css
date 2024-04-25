@@ -17,7 +17,7 @@ html {
   height: 360px;
   margin: auto;
   transform-style: preserve-3d;
-  transition: all 0.5s ease;
+  transition: transform 0.5s ease;
 }
 @media (min-width: 1440px) {
   .card-container {
@@ -176,7 +176,6 @@ html {
 }
 
 .card-thank {
-  display: none;
   text-align: center;
   transform: rotateY(180deg);
 }
