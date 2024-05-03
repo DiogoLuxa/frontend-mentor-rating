@@ -34,7 +34,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL]([https://your-solution-url.com](https://www.frontendmentor.io/solutions/interactive-rating-component-with-vanilla-javascript-PReQbGOJuY))
+- Solution URL: [Solution URL](https://your-solution-url.com](https://www.frontendmentor.io/solutions/interactive-rating-component-with-vanilla-javascript-PReQbGOJuY))
 - Live Site URL: [Live site URL](https://diogoluxa.github.io/frontend-mentor-rating/)
 
 ## My process
