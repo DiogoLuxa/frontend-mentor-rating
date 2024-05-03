@@ -5,7 +5,6 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
 ## Table of contents
 
 - [Frontend Mentor - Interactive rating component solution](#frontend-mentor---interactive-rating-component-solution)
-  - [Table of contents](#table-of-contents)
   - [Overview](#overview)
     - [The challenge](#the-challenge)
     - [Screenshot](#screenshot)
@@ -34,7 +33,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/interactive-rating-component-with-vanilla-javascript-PReQbGOJuY)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/interactive-rating-component-with-vanilla-javascript-PReQbGOJuY)
 - Live Site URL: [Live site URL](https://diogoluxa.github.io/frontend-mentor-rating/)
 
 ## My process
